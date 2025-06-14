@@ -3,9 +3,7 @@
 
 ## How It Works
 
-This Worker takes any incoming request, changes the hostname to your desired target (like `example.com`), and forwards the request. It then returns the response from the target website.
-You can use it to send request to unaccessible websites, specially it is suitable for telegram bot (api.telegram.org)
----
+This Worker takes any incoming request, changes the hostname to your desired target (like `example.com`), and forwards the request. It then returns the response from the target website. You can use it to send request to unaccessible websites, specially it is suitable for telegram bot (api.telegram.org)
 
 ## 🚀 Getting Started
 
